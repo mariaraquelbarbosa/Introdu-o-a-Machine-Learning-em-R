@@ -1,2 +1,2 @@
-# machine_learning_R
- Técnicas de Aprendizado de Máquina Aplicadas a Negócios utilizando a linguagem R
+# Inrodução à Machine Learning com R
+ EAD0759 - Técnicas de Aprendizado de Máquina Aplicadas a Negócios
